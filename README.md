@@ -1,2 +1,14 @@
-# U-150
-Google Oyun ve Uygulama Akademisi U-150 takımı Unity geliştirme reposu.
+# Takım
+Takım U-150
+
+# Takım Elemanları
+
+# Ürün İsmi
+
+# Ürün Açıklaması
+
+# Ürün Özellikleri
+
+# Hedef Kitle
+
+# Product Backlog
