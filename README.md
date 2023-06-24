@@ -66,10 +66,10 @@ Karanlık Ufuk
 Alınan Kararlar: Kullanıcı arayüzü oluşturulmuş, kullanıcı hikayeleri yazılmış, oyunun kurgusu belirlenip oyun dinamiklerine karar verilmiştir. 
 
 - **Sprint Retrospective:**
-  -	Takım içindeki rollerin görevleri hakkında düzenlemeler yapılmıştır. 
-  -	Takım üyelerinin sonraki sprintlerde daha aktif olması gerektiği vurgulanmıştır.
-  -	Toplantıların daha sık alınmasına karar verilmiştir. 
-  -	Asana programının kullanımının daha aktif olması vurgulanmıştır.
-  -	Takımın daha sonraki sprintlerde daha hızlı karar alması gerektiğine karar verilmiştir.
+  -	Takım içindeki rollerin görevleri hakkında düzenlemeler yapılmıştır.  (Tamamlandı.)
+  -	Takım üyelerinin sonraki sprintlerde daha aktif olması gerektiği vurgulanmıştır. (Uygulanıyor.)
+  -	Toplantıların daha sık alınmasına karar verilmiştir. (Uygulanıyor.)
+  -	Asana programının kullanımının daha aktif olması vurgulanmıştır. (Tamamlandı.)
+  -	Takımın daha sonraki sprintlerde daha hızlı karar alması gerektiğine karar verilmiştir. (Uygulanıyor.)
 
 ---
