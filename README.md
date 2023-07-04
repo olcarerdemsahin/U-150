@@ -77,8 +77,8 @@ Alınan Kararlar: Kullanıcı arayüzü oluşturulmuş, kullanıcı hikayeleri y
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 125 Puan
 
-- **Daily Scrum**: Toplantılarımızı mücbir sebeplerden ötürü gerçekleştiremedik ancak Whatsapp üzerinden çalışmalar hakkında bilg ipaylaşımı yaptık.
-![wp konuşma 5](https://github.com/olcarerdemsahin/U-150/assets/78545523/32af22d7-092c-4725-b199-d06d800981e6)
+- **Daily Scrum**: Toplantılarımızı mücbir sebeplerden ötürü gerçekleştiremedik ancak Whatsapp üzerinden çalışmalar hakkında bilgi paylaşımı yaptık.
+ ![wp konuşma 5](https://github.com/olcarerdemsahin/U-150/assets/78545523/32af22d7-092c-4725-b199-d06d800981e6)
 
 
 - **Sprint Review**:
