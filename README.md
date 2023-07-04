@@ -82,7 +82,7 @@ Alınan Kararlar: Kullanıcı arayüzü oluşturulmuş, kullanıcı hikayeleri y
 - **Sprint Review**:
   Alınan Kararlar: Developer ekibinin oyunu geliştirirken nasıl bir yol izlemesi gerektiği kararlaştırılmıştır.
 
-  - **Sprint Retrospective:**
+- **Sprint Retrospective:**
     - Takım iletişiminin kuvvetlenmesi gereketiğine karar verilmiştir.
     - İş bölümünün daha anlaşılır yapılması gerektiği vurgulanmıştır.
     - Tamamlanamayan puanların bir sonraki sprinte aktarılmasına karar verilmiştir.
