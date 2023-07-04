@@ -73,3 +73,19 @@ Alınan Kararlar: Kullanıcı arayüzü oluşturulmuş, kullanıcı hikayeleri y
   -	Takımın daha sonraki sprintlerde daha hızlı karar alması gerektiğine karar verilmiştir. (Uygulanıyor.)
 
 ---
+# Sprint 2
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 125 Puan
+
+- **Daily Scrum**: Toplantılarımızı mücbir sebeplerden ötürü gerçekleştiremedik ancak Whatsapp üzerinden çalışmalar hakkında bilg ipaylaşımı yaptık.
+
+- **Sprint Review**:
+  Alınan Kararlar: Developer ekibinin oyunu geliştirirken nasıl bir yol izlemesi gerektiği kararlaştırılmıştır.
+
+  - **Sprint Retrospective:**
+    - Takım iletişiminin kuvvetlenmesi gereketiğine karar verilmiştir.
+    - İş bölümünün daha anlaşılır yapılması gerektiği vurgulanmıştır.
+    - Tamamlanamayan puanların bir sonraki sprinte aktarılmasına karar verilmiştir.
+    - Çalışmaların hız kazanması gerektiği vurgulanmıştır.
+   
+---
