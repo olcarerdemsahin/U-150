@@ -25,12 +25,12 @@ Karanlık Ufuk
 
 - **Oyunun konusu**: Distopik bir dünyada geçen bir puzzle platform macera oyunu. Oyuncu, totaliter bir rejimin kontrolündeki bir şehirde yaşayan bir hacker rolünü üstleniyor.
 
-- **Oyunun amacı**: Oyuncu, rejime karsi isyan baslatmak icin ulke liderlerinin zamaninda ulke basina gecerkenki yol arkadasi olan {camilo} ya duzenledigi suikasti belgeleriyle ortaya cikarmaya calisir.
+- **Oyunun amacı**: Oyuncu, rejime karşı isyan başlatmak için ülke liderlerinin zamanında ülke başına geçerkenki yol arkadaşı olan {camilo} ya duzenledigi suikasti belgeleriyle ortaya çıkarmaya çalışır.
 
 # Oyunun Özellikleri
 - Oyun, indie bir oyun olacak. Grafikleri, sesleri ve müzikleri minimalist ve atmosferik.
-- Oyun hikaye odakli olacak .
-- Oyun, hackleme mekaniğine odaklanıyor. Oyuncu, şehirdeki kameraları, ışıkları, kapıları, arabaları ve diğer cihazları hackleyip halka acik olmayan yerlere erisecek ve belgeleri ortaya cikaracak.  Hackleme sırasında mini oyunlar ve bulmacalar çözüyor.
+- Oyun hikaye odaklı olacak .
+- Oyun, hackleme mekaniğine odaklanıyor. Oyuncu, şehirdeki kameraları, ışıkları, kapıları, arabaları ve diğer cihazları hackleyip halka açık olmayan yerlere erişecek ve belgeleri ortaya çıkaracak.  Hackleme sırasında mini oyunlar ve bulmacalar çözüyor.
  - Oyun, gizlilik ve aksiyon unsurlarını da içeriyor. Oyuncu, rejimin askerleri ve robotlarından kaçmak veya onlarla savaşmak zorunda kalıyor. .
 
 # Hedef Kitle
