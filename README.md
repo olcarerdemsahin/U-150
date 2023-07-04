@@ -78,6 +78,8 @@ Alınan Kararlar: Kullanıcı arayüzü oluşturulmuş, kullanıcı hikayeleri y
 - **Sprint içinde tamamlanması tahmin edilen puan**: 125 Puan
 
 - **Daily Scrum**: Toplantılarımızı mücbir sebeplerden ötürü gerçekleştiremedik ancak Whatsapp üzerinden çalışmalar hakkında bilg ipaylaşımı yaptık.
+![wp konuşma 5](https://github.com/olcarerdemsahin/U-150/assets/78545523/32af22d7-092c-4725-b199-d06d800981e6)
+
 
 - **Sprint Review**:
   Alınan Kararlar: Developer ekibinin oyunu geliştirirken nasıl bir yol izlemesi gerektiği kararlaştırılmıştır.
@@ -87,5 +89,8 @@ Alınan Kararlar: Kullanıcı arayüzü oluşturulmuş, kullanıcı hikayeleri y
     - İş bölümünün daha anlaşılır yapılması gerektiği vurgulanmıştır.
     - Tamamlanamayan puanların bir sonraki sprinte aktarılmasına karar verilmiştir.
     - Çalışmaların hız kazanması gerektiği vurgulanmıştır.
-   
+
+- **Sprint board update**: Sprint board screenshotları:
+![sprint2](https://github.com/olcarerdemsahin/U-150/assets/78545523/fe3b4dc6-fe7d-4f97-9e89-f9b037963ffb)
+
 ---
