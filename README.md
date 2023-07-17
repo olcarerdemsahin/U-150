@@ -94,3 +94,26 @@ Alınan Kararlar: Kullanıcı arayüzü oluşturulmuş, kullanıcı hikayeleri y
 ![sprint2](https://github.com/olcarerdemsahin/U-150/assets/78545523/fe3b4dc6-fe7d-4f97-9e89-f9b037963ffb)
 
 ---
+
+# Sprint 3
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 155 Puan
+
+- **Daily Scrum**: Sprintin başlarında oyunun geliştirilmesinde nasıl bir yol takip edileceğine dair planlar yaptık ancak zaman ayırma kısmında ekipçe sıkıntılar yaşadık.
+  ![Screenshot 2023-07-17 214933](https://github.com/olcarerdemsahin/U-150/assets/78545523/76ea8772-da32-444b-bcdf-12ac2a62c88b)
+  ![Screenshot 2023-07-17 215025](https://github.com/olcarerdemsahin/U-150/assets/78545523/992399d8-977c-468c-ae4a-de03e193697d)
+  ![Screenshot 2023-07-17 215130](https://github.com/olcarerdemsahin/U-150/assets/78545523/4c6fca4d-b80e-48b1-959c-2f7345b933a6)
+
+
+
+- **Sprint Review**:
+  Alınan Kararlar: Developer ekibinin oyunu geliştirirken nasıl bir yol izlemesi gerektiği ve sahne detayları gibi oyun hakkındaki içerikler konuşulmuş ancak sürenin yetmeyeceği anlaşılınca oyuncunun hackleme ve oyun sonuna ulaşma aşamasının son hali kararlaştırılmıştır.
+
+- **Sprint Retrospective:**
+    - Önceki retrospectivede alınan kararların uygulamaya hala geçmemesinin vahim sonuçları tartışılmış ve içselleştirilmiştir.
+
+- **Sprint board update**: Sprint board screenshotları:
+![Screenshot 2023-07-17 215228](https://github.com/olcarerdemsahin/U-150/assets/78545523/5695dbf9-d628-4424-889c-e441a75005eb)
+
+
+---
