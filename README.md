@@ -111,6 +111,7 @@ Alınan Kararlar: Kullanıcı arayüzü oluşturulmuş, kullanıcı hikayeleri y
 
 - **Sprint Retrospective:**
     - Önceki retrospectivede alınan kararların uygulamaya hala geçmemesinin vahim sonuçları tartışılmış ve içselleştirilmiştir.
+    - Hayalini kurduğumuzdan çok daha basit bir oyun elde edilmiştir.
 
 - **Sprint board update**: Sprint board screenshotları:
 ![Screenshot 2023-07-17 215228](https://github.com/olcarerdemsahin/U-150/assets/78545523/5695dbf9-d628-4424-889c-e441a75005eb)
